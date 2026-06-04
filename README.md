@@ -1,5 +1,7 @@
 Task 4 - Amazon Prime Dataset Logistic Regression Classification
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/poojareddylankala13/Task4-AmazonPrime-Logistic-Regression/blob/main/Task4-AmazonPrime.ipynb)
+
 Objective
 
 To build a binary classification model using Logistic Regression on the Amazon Prime dataset and evaluate its performance.
